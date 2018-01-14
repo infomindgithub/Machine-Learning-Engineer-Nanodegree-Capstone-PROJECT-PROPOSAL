@@ -1,0 +1,2 @@
+# Machine-Learning-Engineer-Nanodegree-Capstone-PROJECT-PROPOSAL
+This capstone project involves machine learning modeling and analysis of clinical, demographic, and brain related derived anatomic measures from human MRI (magnetic resonance imaging) tests (http://www.oasis-brains.org/). The objectives of these measurements are to diagnose the level of Dementia in the individuals and the probability that these individuals may have Alzheimer's Disease (AD). 
